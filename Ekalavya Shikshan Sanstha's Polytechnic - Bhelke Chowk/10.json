@@ -1,0 +1,105 @@
+{
+  "snappedPoints": [
+    {
+      "location": {
+        "latitude": 18.5023918425025,
+        "longitude": 73.80196041041421
+      },
+      "originalIndex": 0,
+      "placeId": "ChIJg-rKGba_wjsRt3RyrgC85U4"
+    },
+    {
+      "location": {
+        "latitude": 18.502639800000004,
+        "longitude": 73.8019912
+      },
+      "placeId": "ChIJg-rKGba_wjsRt3RyrgC85U4"
+    },
+    {
+      "location": {
+        "latitude": 18.5029696,
+        "longitude": 73.802052
+      },
+      "placeId": "ChIJg-rKGba_wjsRt3RyrgC85U4"
+    },
+    {
+      "location": {
+        "latitude": 18.5029696,
+        "longitude": 73.802052
+      },
+      "placeId": "ChIJVZ3XFba_wjsRXmWAhx37FYE"
+    },
+    {
+      "location": {
+        "latitude": 18.5034137,
+        "longitude": 73.802125199999992
+      },
+      "placeId": "ChIJVZ3XFba_wjsRXmWAhx37FYE"
+    },
+    {
+      "location": {
+        "latitude": 18.5034137,
+        "longitude": 73.802125199999992
+      },
+      "placeId": "ChIJL-S8ara_wjsRAbFKUaNheEs"
+    },
+    {
+      "location": {
+        "latitude": 18.503847399999998,
+        "longitude": 73.802204
+      },
+      "placeId": "ChIJL-S8ara_wjsRAbFKUaNheEs"
+    },
+    {
+      "location": {
+        "latitude": 18.503847399999998,
+        "longitude": 73.802204
+      },
+      "placeId": "ChIJ6xO8Qra_wjsRNCSas65xE8w"
+    },
+    {
+      "location": {
+        "latitude": 18.5044363,
+        "longitude": 73.80233659999999
+      },
+      "placeId": "ChIJ6xO8Qra_wjsRNCSas65xE8w"
+    },
+    {
+      "location": {
+        "latitude": 18.5044363,
+        "longitude": 73.80233659999999
+      },
+      "placeId": "ChIJuS1-X7a_wjsRQNu2p1eVUGs"
+    },
+    {
+      "location": {
+        "latitude": 18.5053877,
+        "longitude": 73.8024982
+      },
+      "placeId": "ChIJuS1-X7a_wjsRQNu2p1eVUGs"
+    },
+    {
+      "location": {
+        "latitude": 18.5056547,
+        "longitude": 73.802542199999991
+      },
+      "placeId": "ChIJuS1-X7a_wjsRQNu2p1eVUGs"
+    },
+    {
+      "location": {
+        "latitude": 18.5056547,
+        "longitude": 73.802542199999991
+      },
+      "placeId": "ChIJzViC7ra_wjsRohsrJ3Lk4lw"
+    },
+    {
+      "location": {
+        "latitude": 18.5061523,
+        "longitude": 73.8026665
+      },
+      "originalIndex": 1,
+      "placeId": "ChIJzViC7ra_wjsRohsrJ3Lk4lw"
+    }
+  ],
+  "warningMessage": "Input path is too sparse. You should provide a path where consecutive points are closer to each other. Refer to the 'path' parameter in Google Roads API documentation."
+}

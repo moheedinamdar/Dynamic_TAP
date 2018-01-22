@@ -1,0 +1,55 @@
+{
+  "snappedPoints": [
+    {
+      "location": {
+        "latitude": 18.502120536133731,
+        "longitude": 73.804950190479119
+      },
+      "originalIndex": 0,
+      "placeId": "ChIJ92yqKci_wjsRo5IObCEpf2g"
+    },
+    {
+      "location": {
+        "latitude": 18.5021209,
+        "longitude": 73.8049533
+      },
+      "placeId": "ChIJ92yqKci_wjsRo5IObCEpf2g"
+    },
+    {
+      "location": {
+        "latitude": 18.5021209,
+        "longitude": 73.8049533
+      },
+      "placeId": "ChIJqQTRIci_wjsRdMjnR6i0SRg"
+    },
+    {
+      "location": {
+        "latitude": 18.502129799999995,
+        "longitude": 73.805345
+      },
+      "placeId": "ChIJqQTRIci_wjsRdMjnR6i0SRg"
+    },
+    {
+      "location": {
+        "latitude": 18.502129799999995,
+        "longitude": 73.805345
+      },
+      "placeId": "ChIJGxdXAci_wjsR1AL8nr1WgAU"
+    },
+    {
+      "location": {
+        "latitude": 18.502119199999996,
+        "longitude": 73.805871299999993
+      },
+      "placeId": "ChIJGxdXAci_wjsR1AL8nr1WgAU"
+    },
+    {
+      "location": {
+        "latitude": 18.502084504403427,
+        "longitude": 73.806661047553391
+      },
+      "originalIndex": 1,
+      "placeId": "ChIJGxdXAci_wjsR1AL8nr1WgAU"
+    }
+  ]
+}

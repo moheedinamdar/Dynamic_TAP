@@ -1,0 +1,104 @@
+{
+  "snappedPoints": [
+    {
+      "location": {
+        "latitude": 18.503084599999998,
+        "longitude": 73.7976182
+      },
+      "originalIndex": 0,
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.5036354,
+        "longitude": 73.7977101
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.5041062,
+        "longitude": 73.7977827
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.5044957,
+        "longitude": 73.7978373
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.5045972,
+        "longitude": 73.7978441
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.504664400000003,
+        "longitude": 73.7978452
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.5047224,
+        "longitude": 73.7978364
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.5047751,
+        "longitude": 73.797822099999991
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.5048559,
+        "longitude": 73.7977816
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.504901399999998,
+        "longitude": 73.7977707
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.504965599999995,
+        "longitude": 73.7977653
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.505737,
+        "longitude": 73.7978627
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.5057559,
+        "longitude": 73.7978641
+      },
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    },
+    {
+      "location": {
+        "latitude": 18.5057763,
+        "longitude": 73.7978614
+      },
+      "originalIndex": 1,
+      "placeId": "ChIJH0sdALW_wjsRbyl1mhT6mrU"
+    }
+  ]
+}

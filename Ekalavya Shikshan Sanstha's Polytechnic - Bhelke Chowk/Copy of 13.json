@@ -1,0 +1,90 @@
+{
+  "snappedPoints": [
+    {
+      "location": {
+        "latitude": 18.502120521135797,
+        "longitude": 73.804950062310084
+      },
+      "originalIndex": 0,
+      "placeId": "ChIJ92yqKci_wjsRo5IObCEpf2g"
+    },
+    {
+      "location": {
+        "latitude": 18.5021209,
+        "longitude": 73.8049533
+      },
+      "placeId": "ChIJ92yqKci_wjsRo5IObCEpf2g"
+    },
+    {
+      "location": {
+        "latitude": 18.5021209,
+        "longitude": 73.8049533
+      },
+      "placeId": "ChIJ5f0NIci_wjsRwPFZytJWfe8"
+    },
+    {
+      "location": {
+        "latitude": 18.501978299999998,
+        "longitude": 73.8049448
+      },
+      "placeId": "ChIJ5f0NIci_wjsRwPFZytJWfe8"
+    },
+    {
+      "location": {
+        "latitude": 18.501978299999998,
+        "longitude": 73.8049448
+      },
+      "placeId": "ChIJf62MPMi_wjsRYKE26bMcWWI"
+    },
+    {
+      "location": {
+        "latitude": 18.5007394,
+        "longitude": 73.804872899999992
+      },
+      "placeId": "ChIJf62MPMi_wjsRYKE26bMcWWI"
+    },
+    {
+      "location": {
+        "latitude": 18.5007183,
+        "longitude": 73.804870499999993
+      },
+      "placeId": "ChIJf62MPMi_wjsRYKE26bMcWWI"
+    },
+    {
+      "location": {
+        "latitude": 18.5007183,
+        "longitude": 73.804870499999993
+      },
+      "placeId": "ChIJoUVgQci_wjsROW1Dw0jLZas"
+    },
+    {
+      "location": {
+        "latitude": 18.5002653,
+        "longitude": 73.804842499999992
+      },
+      "placeId": "ChIJoUVgQci_wjsROW1Dw0jLZas"
+    },
+    {
+      "location": {
+        "latitude": 18.5002653,
+        "longitude": 73.804842499999992
+      },
+      "placeId": "ChIJvSmRXMi_wjsRJbAxJFuA6tU"
+    },
+    {
+      "location": {
+        "latitude": 18.4999499,
+        "longitude": 73.8047935
+      },
+      "placeId": "ChIJvSmRXMi_wjsRJbAxJFuA6tU"
+    },
+    {
+      "location": {
+        "latitude": 18.499803500000002,
+        "longitude": 73.804779299999993
+      },
+      "originalIndex": 1,
+      "placeId": "ChIJvSmRXMi_wjsRJbAxJFuA6tU"
+    }
+  ]
+}

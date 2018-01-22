@@ -1,0 +1,20 @@
+{
+  "snappedPoints": [
+    {
+      "location": {
+        "latitude": 18.502110100019536,
+        "longitude": 73.80851999998913
+      },
+      "originalIndex": 0,
+      "placeId": "ChIJlZhXhMe_wjsRCb_S1Mp2Q6M"
+    },
+    {
+      "location": {
+        "latitude": 18.502110199990824,
+        "longitude": 73.80957300049198
+      },
+      "originalIndex": 1,
+      "placeId": "ChIJlZhXhMe_wjsRCb_S1Mp2Q6M"
+    }
+  ]
+}

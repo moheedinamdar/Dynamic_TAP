@@ -1,0 +1,84 @@
+{
+  "snappedPoints": [
+    {
+      "location": {
+        "latitude": 18.503331850940466,
+        "longitude": 73.796105943222628
+      },
+      "originalIndex": 0,
+      "placeId": "ChIJDyj8ErW_wjsRnofm06wdkQw"
+    },
+    {
+      "location": {
+        "latitude": 18.5033319,
+        "longitude": 73.796105799999992
+      },
+      "placeId": "ChIJDyj8ErW_wjsRnofm06wdkQw"
+    },
+    {
+      "location": {
+        "latitude": 18.5033319,
+        "longitude": 73.796105799999992
+      },
+      "placeId": "ChIJxT7tIbW_wjsRpPL-Z8UhAOs"
+    },
+    {
+      "location": {
+        "latitude": 18.5041038,
+        "longitude": 73.7962237
+      },
+      "placeId": "ChIJxT7tIbW_wjsRpPL-Z8UhAOs"
+    },
+    {
+      "location": {
+        "latitude": 18.5048572,
+        "longitude": 73.7963607
+      },
+      "placeId": "ChIJxT7tIbW_wjsRpPL-Z8UhAOs"
+    },
+    {
+      "location": {
+        "latitude": 18.5048572,
+        "longitude": 73.7963607
+      },
+      "placeId": "ChIJHQBS6LS_wjsRyWtx1VnGsWI"
+    },
+    {
+      "location": {
+        "latitude": 18.5057359,
+        "longitude": 73.796530199999992
+      },
+      "placeId": "ChIJHQBS6LS_wjsRyWtx1VnGsWI"
+    },
+    {
+      "location": {
+        "latitude": 18.5057564,
+        "longitude": 73.796531899999991
+      },
+      "placeId": "ChIJHQBS6LS_wjsRyWtx1VnGsWI"
+    },
+    {
+      "location": {
+        "latitude": 18.5057564,
+        "longitude": 73.796531899999991
+      },
+      "placeId": "ChIJtTBYlLS_wjsRTRdrEEVBWXg"
+    },
+    {
+      "location": {
+        "latitude": 18.5058583,
+        "longitude": 73.7965466
+      },
+      "placeId": "ChIJtTBYlLS_wjsRTRdrEEVBWXg"
+    },
+    {
+      "location": {
+        "latitude": 18.506369799999998,
+        "longitude": 73.7965644
+      },
+      "originalIndex": 1,
+      "placeId": "ChIJtTBYlLS_wjsRTRdrEEVBWXg"
+    }
+  ],
+  "warningMessage": "Input path is too sparse. You should provide a path where consecutive points are closer to each other. Refer to the 'path' parameter in Google Roads API documentation."
+}

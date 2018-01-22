@@ -1,0 +1,194 @@
+{
+  "snappedPoints": [
+    {
+      "location": {
+        "latitude": 18.503084217088645,
+        "longitude": 73.797617436781962
+      },
+      "originalIndex": 0,
+      "placeId": "ChIJDyj8ErW_wjsRn4fm06wdkQw"
+    },
+    {
+      "location": {
+        "latitude": 18.503084599999998,
+        "longitude": 73.7976182
+      },
+      "placeId": "ChIJDyj8ErW_wjsRn4fm06wdkQw"
+    },
+    {
+      "location": {
+        "latitude": 18.503084599999998,
+        "longitude": 73.7976182
+      },
+      "placeId": "ChIJM5jKCrW_wjsR-bgh3vVL3IU"
+    },
+    {
+      "location": {
+        "latitude": 18.503130099999996,
+        "longitude": 73.7977135
+      },
+      "placeId": "ChIJM5jKCrW_wjsR-bgh3vVL3IU"
+    },
+    {
+      "location": {
+        "latitude": 18.5031569,
+        "longitude": 73.797793099999993
+      },
+      "placeId": "ChIJM5jKCrW_wjsR-bgh3vVL3IU"
+    },
+    {
+      "location": {
+        "latitude": 18.5031694,
+        "longitude": 73.7978526
+      },
+      "placeId": "ChIJM5jKCrW_wjsR-bgh3vVL3IU"
+    },
+    {
+      "location": {
+        "latitude": 18.5031787,
+        "longitude": 73.7979232
+      },
+      "placeId": "ChIJM5jKCrW_wjsR-bgh3vVL3IU"
+    },
+    {
+      "location": {
+        "latitude": 18.5031805,
+        "longitude": 73.797969999999992
+      },
+      "placeId": "ChIJM5jKCrW_wjsR-bgh3vVL3IU"
+    },
+    {
+      "location": {
+        "latitude": 18.5031805,
+        "longitude": 73.797969999999992
+      },
+      "placeId": "ChIJWbZVn7W_wjsRUDYKfTl3tRc"
+    },
+    {
+      "location": {
+        "latitude": 18.5031823,
+        "longitude": 73.7979876
+      },
+      "placeId": "ChIJWbZVn7W_wjsRUDYKfTl3tRc"
+    },
+    {
+      "location": {
+        "latitude": 18.5031844,
+        "longitude": 73.798059999999992
+      },
+      "placeId": "ChIJWbZVn7W_wjsRUDYKfTl3tRc"
+    },
+    {
+      "location": {
+        "latitude": 18.5031639,
+        "longitude": 73.7983114
+      },
+      "placeId": "ChIJWbZVn7W_wjsRUDYKfTl3tRc"
+    },
+    {
+      "location": {
+        "latitude": 18.5031639,
+        "longitude": 73.7983114
+      },
+      "placeId": "ChIJb49ZlrW_wjsRZue4m5asNhQ"
+    },
+    {
+      "location": {
+        "latitude": 18.5030239,
+        "longitude": 73.799221899999992
+      },
+      "placeId": "ChIJb49ZlrW_wjsRZue4m5asNhQ"
+    },
+    {
+      "location": {
+        "latitude": 18.5030239,
+        "longitude": 73.799221899999992
+      },
+      "placeId": "ChIJbRaD67W_wjsR8zrMxfD4Gl0"
+    },
+    {
+      "location": {
+        "latitude": 18.5029571,
+        "longitude": 73.799559
+      },
+      "placeId": "ChIJbRaD67W_wjsR8zrMxfD4Gl0"
+    },
+    {
+      "location": {
+        "latitude": 18.502930000000003,
+        "longitude": 73.799666899999991
+      },
+      "placeId": "ChIJbRaD67W_wjsR8zrMxfD4Gl0"
+    },
+    {
+      "location": {
+        "latitude": 18.502930000000003,
+        "longitude": 73.799666899999991
+      },
+      "placeId": "ChIJ1cDS7rW_wjsROKaEhBRexek"
+    },
+    {
+      "location": {
+        "latitude": 18.502847400000004,
+        "longitude": 73.8000398
+      },
+      "placeId": "ChIJ1cDS7rW_wjsROKaEhBRexek"
+    },
+    {
+      "location": {
+        "latitude": 18.502847400000004,
+        "longitude": 73.8000398
+      },
+      "placeId": "ChIJgQlY5LW_wjsRycA9E4BquUA"
+    },
+    {
+      "location": {
+        "latitude": 18.502785199999998,
+        "longitude": 73.800289400000011
+      },
+      "placeId": "ChIJgQlY5LW_wjsRycA9E4BquUA"
+    },
+    {
+      "location": {
+        "latitude": 18.5027743,
+        "longitude": 73.8003464
+      },
+      "placeId": "ChIJgQlY5LW_wjsRycA9E4BquUA"
+    },
+    {
+      "location": {
+        "latitude": 18.5027743,
+        "longitude": 73.8003464
+      },
+      "placeId": "ChIJbc_f4rW_wjsRm19UmIC2Uhc"
+    },
+    {
+      "location": {
+        "latitude": 18.502649299999998,
+        "longitude": 73.8007342
+      },
+      "placeId": "ChIJbc_f4rW_wjsRm19UmIC2Uhc"
+    },
+    {
+      "location": {
+        "latitude": 18.502649299999998,
+        "longitude": 73.8007342
+      },
+      "placeId": "ChIJh27mBba_wjsR-0hQ4iVgFQU"
+    },
+    {
+      "location": {
+        "latitude": 18.5024728,
+        "longitude": 73.801531799999992
+      },
+      "originalIndex": 1,
+      "placeId": "ChIJh27mBba_wjsR-0hQ4iVgFQU"
+    }
+  ],
+
+18.502392, 73.801959
+
+
+
+  "warningMessage": "Input path is too sparse. You should provide a path where consecutive points are closer to each other. Refer to the 'path' parameter in Google Roads API documentation."
+}
