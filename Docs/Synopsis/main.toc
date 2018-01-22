@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Title}{1}
+\contentsline {section}{\numberline {2}Domain}{1}
+\contentsline {section}{\numberline {3}Keywords}{1}
+\contentsline {section}{\numberline {4}Team}{1}
+\contentsline {section}{\numberline {5}Objective}{1}
+\contentsline {section}{\numberline {6}Scope}{1}
+\contentsline {section}{\numberline {7}Feasibility Study}{2}
+\contentsline {section}{\numberline {8}Technical Details}{2}
+\contentsline {section}{\numberline {9}Innovativeness and Usefulness}{2}
+\contentsline {section}{\numberline {10}Brief Description}{3}
+\contentsline {section}{\numberline {11}Probable Deadline for project completion}{4}
+\contentsline {section}{\numberline {12}References}{4}

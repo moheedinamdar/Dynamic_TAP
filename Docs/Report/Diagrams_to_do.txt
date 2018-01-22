@@ -1,0 +1,13 @@
+Structural : 
+- Class diagram
+- Object diagram
+- Component diagram
+- Deployment diagram
+
+Behavioral :
+- Use case diagram
+- Sequence diagram
+- Collaboration diagram
+- Statechart diagram
+- Activity diagram
+
