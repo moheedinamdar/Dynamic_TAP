@@ -16,19 +16,24 @@
 #         Update the particle's best known position: pi ← xi
 #      if f(pi) < f(g) then
 #         Update the swarm's best known position: g ← pi
-#
 
-import HB as nearby
-import GDMAPI as Maps
+
+
+# We're using the Minimising Local-PSO
+
+import HB as nearby				# This connects us to our neighbours
+import GDMAPI as Maps				# This is our input connections (Warning: Subject to change)
+
+
 connected = nearby.Get_Count()
 
-state = []
-last_state = []
-my_best_state = []
-our_best_state = []
+state = []					# State is a n-dimensional array containing the density information of all n routes.
+last_state = []					# PSO variable to store old state (from last run).
+my_best_state = []				# Maintains personal best.
+our_best_state = []				# Maintains best among this local group.
 
-decision = []
-last_decision = []
+decision = []					# Is a correction of current statement. 
+last_decision = []				# PSO variable to store old decision (from last run).
 
 def compare(to):
     """Function for comparing states.
@@ -53,7 +58,7 @@ def Set_Best():
     return 
 
     our_best_state = nearby.Get_Best()
-    if (state.compare(my_best_state) < 0):	#state is better than my_best
+    if (state.compare(my_best_state) < 0):	# if state is better than my_best
 	my_best_state = state
 
     return
@@ -70,5 +75,10 @@ def PSO_step():
     for i in range(0,connected):	
         if last_decision != None:
 	    decision[i] = a*last_decision[i] + b*r1*(my_best_state[i] - state[i]) + c*r2*(our_best_state[i] - state[i])
-	    state[i] = (state[i] + decision[i])/(decision_max-decision_min)	#scaling it back to [0,1]
+	    state[i] = (state[i] + decision[i])	
+
+		# Transforming it back into proper range.
+	    if state[i] < decision_min: state[i] = decision_min
+	    elif state[i] > decision_max: state[i] = decision_max
+
 
