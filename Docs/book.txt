@@ -1,0 +1,68 @@
+24th July, 2017 - Monday
+
+Project Topic search initiated.
+
+26th July, 2017 - Tuesday
+
+One Interesting Topic found.
+    Surveillance of Forest lining the Highways for Suspicious Activities.
+
+    Kit Needed: Drone, (Assumed) IR Camera, Autonomous Flight program, 
+        Ad-Hoc Communication equipment and protocol.
+
+27th July, 2017 - Wednesday
+
+Visit to RC Bazaar at ABC Chowk.
+    Details found: 1 motor kit = ac motor, wiring, propellar = 1200/-
+
+Visit to Rajiv Electronics at ABC Chowk.
+    Details found: Quadcopter at 4000/-
+
+Camera to be used: FLIR Cameras.
+
+29th July, 2017 - Saturday
+
+Visit to Shagun Chowk, Pimpri.
+    Details found: Sagar Electronics Shop.. Pricing not provided..
+        Availability professed.
+
+14th August, 2017 - Saturday
+    Talked to a low cost vendor. Discovered that IR Cameras won't look 
+    through the forest canopy. Dropped Idea.
+
+15th August, 2017 - Sunday
+
+Found new Idea. Converting existing traffic management (traffic signals) into
+one large ad-hoc network. Providing feedbacks to neighbouring signals to 
+solve traffic congestion problems.
+
+18th August, 2017 - Wednesday
+
+Found some papers from IEEE about Ant Colony Optimization.
+
+21st August, 2017 - Saturday
+
+Found Base paper : arxiv.org/pdf/1703.02810.pdf
+Found Important reference paper: www.complex-systems.com/pdf/16-1-2.pdf
+Decided on Using MOTUS simulator. Decided usage of Image Processing and
+Distributed Communication Protocols.
+
+22nd August, 2017 - Sunday
+
+Finalized a task list. Finalized a work flow.
+
+Task list: 
+    1) Contacted Arduino Expert - ****** *********
+        Reply awaited.
+    2) Sorted for Simulators.. Favourite = Motus, SUMO
+    3) Sorted for papers.. Important = Complex-systems pdf.
+    4) IDE and tools : Eclipse + Maven
+
+Work flow:
+    1) Research into OV7670 Camera Shield for Arduino.
+    2) Research into using MOTUS Simulator.
+    3) Research into cost and creation feasibility.
+
+27th August, 2017 - Friday
+
+Reevaluated Topic.. Looking to find issues in the problem itself.
