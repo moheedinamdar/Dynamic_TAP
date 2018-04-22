@@ -1,0 +1,45 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Brief Description}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Detailed problem definition}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Justification of problem }{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Purpose of your system}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Literature survey}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Analysis}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Project Plan}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.2}{Requirement analysis}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.1}{Necessary Functions:}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.2}{Desirable Functions:}{section.2.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Team structure}{chapter.2}% 12
+\BOOKMARK [0][-]{chapter.3}{Design}{}% 13
+\BOOKMARK [1][-]{section.3.1}{Architectural Block Diagram}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.2}{Software Requirement Specification \(SRS\)}{chapter.3}% 15
+\BOOKMARK [2][-]{subsection.3.2.1}{Interface Requirements:}{section.3.2}% 16
+\BOOKMARK [1][-]{section.3.3}{Risk assessment}{chapter.3}% 17
+\BOOKMARK [0][-]{chapter.4}{Modelling}{}% 18
+\BOOKMARK [1][-]{section.4.1}{UML diagrams}{chapter.4}% 19
+\BOOKMARK [2][-]{subsection.4.1.1}{Structural Diagrams}{section.4.1}% 20
+\BOOKMARK [2][-]{subsection.4.1.2}{Behavioural Diagrams}{section.4.1}% 21
+\BOOKMARK [1][-]{section.4.2}{ERD and Normalization for database if any}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.2.1}{Entity Relationship Diagram}{section.4.2}% 23
+\BOOKMARK [0][-]{chapter.5}{Coding}{}% 24
+\BOOKMARK [1][-]{section.5.1}{Algorithms / Flowcharts}{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.2}{Software used}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.3}{Hardware specification}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.4}{Programming language}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.5}{Platform}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.6}{Components}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.7}{Tools}{chapter.5}% 31
+\BOOKMARK [0][-]{chapter.6}{Results}{}% 32
+\BOOKMARK [0][-]{chapter.7}{Testing}{}% 33
+\BOOKMARK [1][-]{section.7.1}{Formal technical reviews}{chapter.7}% 34
+\BOOKMARK [1][-]{section.7.2}{Test plan}{chapter.7}% 35
+\BOOKMARK [1][-]{section.7.3}{Test cases}{chapter.7}% 36
+\BOOKMARK [1][-]{section.7.4}{Test Results}{chapter.7}% 37
+\BOOKMARK [0][-]{chapter.8}{Deployment and Maintenance}{}% 38
+\BOOKMARK [0][-]{chapter.9}{Conclusion and Future Scope}{}% 39
+\BOOKMARK [0][-]{chapter.9}{References}{}% 40
+\BOOKMARK [0][-]{Annexure.1.A}{Annexure Laboratory assignments from Term I}{}% 41
+\BOOKMARK [0][-]{Annexure.1.B}{Annexure Laboratory assignments on Project Quality and Reliability Testing of Project Design}{}% 42
+\BOOKMARK [0][-]{Annexure.1.C}{Annexure Reviewers Comments of Paper Submitted}{}% 43
+\BOOKMARK [0][-]{Annexure.1.D}{Annexure Plagiarism Report}{}% 44
+\BOOKMARK [0][-]{Annexure.1.E}{Annexure \040Term-II Project Laboratory Assignments}{}% 45
