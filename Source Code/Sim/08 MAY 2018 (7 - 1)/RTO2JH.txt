@@ -1,0 +1,264 @@
+07:15:19
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 370
+07:20:42
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 372
+07:26:07
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 371
+07:31:32
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 378
+07:36:57
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 378
+07:42:24
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 373
+07:47:54
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 368
+07:53:21
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 373
+07:58:45
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 381
+08:04:10
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 385
+08:09:35
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 395
+08:15:00
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 396
+08:20:26
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 395
+08:25:54
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 412
+08:31:18
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 400
+08:36:42
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 408
+08:42:11
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 401
+08:47:36
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 406
+08:52:59
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 440
+08:58:21
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 446
+09:03:43
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 433
+09:09:06
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 450
+09:14:29
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 451
+09:19:53
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 497
+09:25:18
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 468
+09:30:45
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 454
+09:36:26
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 487
+09:41:51
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 489
+09:47:18
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 519
+09:52:41
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 533
+09:58:05
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 539
+10:03:31
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 561
+10:08:55
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 521
+10:14:22
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 490
+10:19:47
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 538
+10:25:34
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 571
+10:31:25
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 499
+10:36:56
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 531
+10:42:21
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 509
+10:47:46
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 523
+10:53:10
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 501
+10:58:34
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 505
+11:03:58
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 522
+11:09:25
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 552
+11:14:50
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 523
+11:20:14
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 510
+11:25:39
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 520
+11:31:03
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 509
+11:36:43
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 502
+11:42:09
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 511
+11:47:33
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 495
+11:53:01
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 505
+11:58:26
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 501
+12:04:08
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 498
+12:10:01
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 462
+12:15:26
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 482
+12:20:51
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 502
+12:26:17
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 499
+12:31:41
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 490
+12:37:08
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 535
+12:42:32
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 483
+12:48:03
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 478
+12:53:35
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 501
+12:59:10
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 538
+13:04:42
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 523
+13:10:16
+                  "value" : 2384
+                  "value" : 492
+                  "value" : 504

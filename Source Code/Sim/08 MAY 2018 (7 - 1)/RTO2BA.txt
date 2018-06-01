@@ -1,0 +1,264 @@
+07:15:19
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 139
+07:20:41
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 142
+07:26:06
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 144
+07:31:32
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 153
+07:36:57
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 158
+07:42:24
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 152
+07:47:54
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 152
+07:53:20
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 145
+07:58:45
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 152
+08:04:09
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 174
+08:09:34
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 164
+08:15:00
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 174
+08:20:25
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 164
+08:25:53
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 162
+08:31:18
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 172
+08:36:42
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 172
+08:42:10
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 168
+08:47:35
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 178
+08:52:58
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 181
+08:58:20
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 189
+09:03:42
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 169
+09:09:05
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 187
+09:14:29
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 189
+09:19:52
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 196
+09:25:17
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 198
+09:30:44
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 181
+09:36:25
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 184
+09:41:51
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 203
+09:47:17
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 224
+09:52:41
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 216
+09:58:05
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 220
+10:03:31
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 230
+10:08:55
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 220
+10:14:22
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 219
+10:19:47
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 277
+10:25:33
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 264
+10:31:25
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 260
+10:36:56
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 274
+10:42:21
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 265
+10:47:45
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 240
+10:53:09
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 242
+10:58:33
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 241
+11:03:57
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 249
+11:09:24
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 273
+11:14:49
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 253
+11:20:14
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 237
+11:25:39
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 246
+11:31:03
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 221
+11:36:42
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 249
+11:42:08
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 236
+11:47:33
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 228
+11:53:00
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 227
+11:58:25
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 244
+12:04:07
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 230
+12:10:00
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 213
+12:15:26
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 231
+12:20:50
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 261
+12:26:15
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 260
+12:31:41
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 226
+12:37:07
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 259
+12:42:31
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 234
+12:48:02
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 231
+12:53:35
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 234
+12:59:08
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 256
+13:04:41
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 253
+13:10:15
+                  "value" : 1041
+                  "value" : 224
+                  "value" : 241

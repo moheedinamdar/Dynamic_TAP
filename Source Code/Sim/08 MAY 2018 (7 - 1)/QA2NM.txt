@@ -1,0 +1,264 @@
+07:15:17
+                  "value" : 804
+                  "value" : 139
+                  "value" : 91
+07:20:40
+                  "value" : 804
+                  "value" : 139
+                  "value" : 96
+07:26:05
+                  "value" : 804
+                  "value" : 139
+                  "value" : 96
+07:31:30
+                  "value" : 804
+                  "value" : 139
+                  "value" : 95
+07:36:55
+                  "value" : 804
+                  "value" : 139
+                  "value" : 98
+07:42:22
+                  "value" : 804
+                  "value" : 139
+                  "value" : 106
+07:47:52
+                  "value" : 804
+                  "value" : 139
+                  "value" : 103
+07:53:18
+                  "value" : 804
+                  "value" : 139
+                  "value" : 102
+07:58:43
+                  "value" : 804
+                  "value" : 139
+                  "value" : 104
+08:04:07
+                  "value" : 804
+                  "value" : 139
+                  "value" : 116
+08:09:32
+                  "value" : 804
+                  "value" : 139
+                  "value" : 106
+08:14:58
+                  "value" : 804
+                  "value" : 139
+                  "value" : 106
+08:20:23
+                  "value" : 804
+                  "value" : 139
+                  "value" : 113
+08:25:51
+                  "value" : 804
+                  "value" : 139
+                  "value" : 106
+08:31:16
+                  "value" : 804
+                  "value" : 139
+                  "value" : 109
+08:36:40
+                  "value" : 804
+                  "value" : 139
+                  "value" : 111
+08:42:08
+                  "value" : 804
+                  "value" : 139
+                  "value" : 112
+08:47:34
+                  "value" : 804
+                  "value" : 139
+                  "value" : 112
+08:52:57
+                  "value" : 804
+                  "value" : 139
+                  "value" : 112
+08:58:19
+                  "value" : 804
+                  "value" : 139
+                  "value" : 124
+09:03:41
+                  "value" : 804
+                  "value" : 139
+                  "value" : 117
+09:09:04
+                  "value" : 804
+                  "value" : 139
+                  "value" : 120
+09:14:27
+                  "value" : 804
+                  "value" : 139
+                  "value" : 118
+09:19:51
+                  "value" : 804
+                  "value" : 139
+                  "value" : 129
+09:25:15
+                  "value" : 804
+                  "value" : 139
+                  "value" : 124
+09:30:42
+                  "value" : 804
+                  "value" : 139
+                  "value" : 130
+09:36:23
+                  "value" : 804
+                  "value" : 139
+                  "value" : 138
+09:41:49
+                  "value" : 804
+                  "value" : 139
+                  "value" : 137
+09:47:15
+                  "value" : 804
+                  "value" : 139
+                  "value" : 128
+09:52:39
+                  "value" : 804
+                  "value" : 139
+                  "value" : 131
+09:58:03
+                  "value" : 804
+                  "value" : 139
+                  "value" : 132
+10:03:29
+                  "value" : 804
+                  "value" : 139
+                  "value" : 140
+10:08:53
+                  "value" : 804
+                  "value" : 139
+                  "value" : 132
+10:14:20
+                  "value" : 804
+                  "value" : 139
+                  "value" : 129
+10:19:45
+                  "value" : 804
+                  "value" : 139
+                  "value" : 135
+10:25:29
+                  "value" : 804
+                  "value" : 139
+                  "value" : 136
+10:31:21
+                  "value" : 804
+                  "value" : 139
+                  "value" : 135
+10:36:53
+                  "value" : 804
+                  "value" : 139
+                  "value" : 143
+10:42:19
+                  "value" : 804
+                  "value" : 139
+                  "value" : 140
+10:47:43
+                  "value" : 804
+                  "value" : 139
+                  "value" : 144
+10:53:08
+                  "value" : 804
+                  "value" : 139
+                  "value" : 142
+10:58:32
+                  "value" : 804
+                  "value" : 139
+                  "value" : 140
+11:03:55
+                  "value" : 804
+                  "value" : 139
+                  "value" : 139
+11:09:22
+                  "value" : 804
+                  "value" : 139
+                  "value" : 146
+11:14:47
+                  "value" : 804
+                  "value" : 139
+                  "value" : 142
+11:20:12
+                  "value" : 804
+                  "value" : 139
+                  "value" : 152
+11:25:37
+                  "value" : 804
+                  "value" : 139
+                  "value" : 150
+11:31:01
+                  "value" : 804
+                  "value" : 139
+                  "value" : 151
+11:36:40
+                  "value" : 804
+                  "value" : 139
+                  "value" : 153
+11:42:06
+                  "value" : 804
+                  "value" : 139
+                  "value" : 149
+11:47:31
+                  "value" : 804
+                  "value" : 139
+                  "value" : 152
+11:52:58
+                  "value" : 804
+                  "value" : 139
+                  "value" : 152
+11:58:23
+                  "value" : 804
+                  "value" : 139
+                  "value" : 157
+12:04:05
+                  "value" : 804
+                  "value" : 139
+                  "value" : 153
+12:09:58
+                  "value" : 804
+                  "value" : 139
+                  "value" : 154
+12:15:24
+                  "value" : 804
+                  "value" : 139
+                  "value" : 156
+12:20:48
+                  "value" : 804
+                  "value" : 139
+                  "value" : 167
+12:26:13
+                  "value" : 804
+                  "value" : 139
+                  "value" : 161
+12:31:39
+                  "value" : 804
+                  "value" : 139
+                  "value" : 166
+12:37:05
+                  "value" : 804
+                  "value" : 139
+                  "value" : 174
+12:42:30
+                  "value" : 804
+                  "value" : 139
+                  "value" : 159
+12:48:00
+                  "value" : 804
+                  "value" : 139
+                  "value" : 167
+12:53:32
+                  "value" : 804
+                  "value" : 139
+                  "value" : 167
+12:59:06
+                  "value" : 804
+                  "value" : 139
+                  "value" : 157
+13:04:39
+                  "value" : 804
+                  "value" : 139
+                  "value" : 177
+13:10:12
+                  "value" : 804
+                  "value" : 139
+                  "value" : 169

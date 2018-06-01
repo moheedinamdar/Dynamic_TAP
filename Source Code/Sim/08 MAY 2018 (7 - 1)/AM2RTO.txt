@@ -1,0 +1,264 @@
+07:15:03
+                  "value" : 869
+                  "value" : 121
+                  "value" : 95
+07:20:26
+                  "value" : 869
+                  "value" : 121
+                  "value" : 95
+07:25:49
+                  "value" : 869
+                  "value" : 121
+                  "value" : 91
+07:31:15
+                  "value" : 869
+                  "value" : 121
+                  "value" : 90
+07:36:40
+                  "value" : 869
+                  "value" : 121
+                  "value" : 94
+07:42:06
+                  "value" : 869
+                  "value" : 121
+                  "value" : 99
+07:47:34
+                  "value" : 869
+                  "value" : 121
+                  "value" : 99
+07:53:03
+                  "value" : 869
+                  "value" : 121
+                  "value" : 96
+07:58:29
+                  "value" : 869
+                  "value" : 121
+                  "value" : 102
+08:03:52
+                  "value" : 869
+                  "value" : 121
+                  "value" : 95
+08:09:17
+                  "value" : 869
+                  "value" : 121
+                  "value" : 100
+08:14:43
+                  "value" : 869
+                  "value" : 121
+                  "value" : 97
+08:20:09
+                  "value" : 869
+                  "value" : 121
+                  "value" : 129
+08:25:34
+                  "value" : 869
+                  "value" : 121
+                  "value" : 109
+08:31:02
+                  "value" : 869
+                  "value" : 121
+                  "value" : 102
+08:36:26
+                  "value" : 869
+                  "value" : 121
+                  "value" : 96
+08:41:52
+                  "value" : 869
+                  "value" : 121
+                  "value" : 106
+08:47:19
+                  "value" : 869
+                  "value" : 121
+                  "value" : 113
+08:52:43
+                  "value" : 869
+                  "value" : 121
+                  "value" : 118
+08:58:05
+                  "value" : 869
+                  "value" : 121
+                  "value" : 118
+09:03:27
+                  "value" : 869
+                  "value" : 121
+                  "value" : 118
+09:08:50
+                  "value" : 869
+                  "value" : 121
+                  "value" : 126
+09:14:12
+                  "value" : 869
+                  "value" : 121
+                  "value" : 121
+09:19:36
+                  "value" : 869
+                  "value" : 121
+                  "value" : 131
+09:25:01
+                  "value" : 869
+                  "value" : 121
+                  "value" : 154
+09:30:27
+                  "value" : 869
+                  "value" : 121
+                  "value" : 124
+09:35:54
+                  "value" : 869
+                  "value" : 121
+                  "value" : 172
+09:41:35
+                  "value" : 869
+                  "value" : 121
+                  "value" : 180
+09:46:59
+                  "value" : 869
+                  "value" : 121
+                  "value" : 275
+09:52:25
+                  "value" : 869
+                  "value" : 121
+                  "value" : 330
+09:57:49
+                  "value" : 869
+                  "value" : 121
+                  "value" : 347
+10:03:14
+                  "value" : 869
+                  "value" : 121
+                  "value" : 235
+10:08:39
+                  "value" : 869
+                  "value" : 121
+                  "value" : 170
+10:14:03
+                  "value" : 869
+                  "value" : 121
+                  "value" : 214
+10:19:31
+                  "value" : 869
+                  "value" : 121
+                  "value" : 181
+10:25:00
+                  "value" : 869
+                  "value" : 121
+                  "value" : 248
+10:30:55
+                  "value" : 869
+                  "value" : 121
+                  "value" : 231
+10:36:38
+                  "value" : 869
+                  "value" : 121
+                  "value" : 162
+10:42:04
+                  "value" : 869
+                  "value" : 121
+                  "value" : 156
+10:47:28
+                  "value" : 869
+                  "value" : 121
+                  "value" : 158
+10:52:53
+                  "value" : 869
+                  "value" : 121
+                  "value" : 161
+10:58:17
+                  "value" : 869
+                  "value" : 121
+                  "value" : 185
+11:03:41
+                  "value" : 869
+                  "value" : 121
+                  "value" : 159
+11:09:05
+                  "value" : 869
+                  "value" : 121
+                  "value" : 143
+11:14:32
+                  "value" : 869
+                  "value" : 121
+                  "value" : 152
+11:19:57
+                  "value" : 869
+                  "value" : 121
+                  "value" : 158
+11:25:22
+                  "value" : 869
+                  "value" : 121
+                  "value" : 160
+11:30:47
+                  "value" : 869
+                  "value" : 121
+                  "value" : 181
+11:36:15
+                  "value" : 869
+                  "value" : 121
+                  "value" : 131
+11:41:51
+                  "value" : 869
+                  "value" : 121
+                  "value" : 170
+11:47:16
+                  "value" : 869
+                  "value" : 121
+                  "value" : 136
+11:52:41
+                  "value" : 869
+                  "value" : 121
+                  "value" : 143
+11:58:08
+                  "value" : 869
+                  "value" : 121
+                  "value" : 144
+12:03:36
+                  "value" : 869
+                  "value" : 121
+                  "value" : 195
+12:09:27
+                  "value" : 869
+                  "value" : 121
+                  "value" : 182
+12:15:10
+                  "value" : 869
+                  "value" : 121
+                  "value" : 165
+12:20:33
+                  "value" : 869
+                  "value" : 121
+                  "value" : 152
+12:25:59
+                  "value" : 869
+                  "value" : 121
+                  "value" : 150
+12:31:25
+                  "value" : 869
+                  "value" : 121
+                  "value" : 226
+12:36:49
+                  "value" : 869
+                  "value" : 121
+                  "value" : 206
+12:42:15
+                  "value" : 869
+                  "value" : 121
+                  "value" : 164
+12:47:40
+                  "value" : 869
+                  "value" : 121
+                  "value" : 154
+12:53:13
+                  "value" : 869
+                  "value" : 121
+                  "value" : 151
+12:58:46
+                  "value" : 869
+                  "value" : 121
+                  "value" : 177
+13:04:20
+                  "value" : 869
+                  "value" : 121
+                  "value" : 205
+13:09:52
+                  "value" : 869
+                  "value" : 121
+                  "value" : 142

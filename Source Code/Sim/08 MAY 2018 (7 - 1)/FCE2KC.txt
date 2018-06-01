@@ -1,0 +1,264 @@
+07:15:08
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 225
+07:20:31
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 227
+07:25:55
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 224
+07:31:21
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 236
+07:36:46
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 240
+07:42:11
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 243
+07:47:40
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 240
+07:53:09
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 244
+07:58:34
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 245
+08:03:57
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 252
+08:09:23
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 251
+08:14:49
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 262
+08:20:14
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 255
+08:25:41
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 268
+08:31:07
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 275
+08:36:32
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 283
+08:41:58
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 283
+08:47:25
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 285
+08:52:48
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 290
+08:58:10
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 289
+09:03:32
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 309
+09:08:55
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 310
+09:14:18
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 333
+09:19:42
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 328
+09:25:06
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 335
+09:30:33
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 346
+09:36:00
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 347
+09:41:40
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 376
+09:47:04
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 392
+09:52:30
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 383
+09:57:54
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 387
+10:03:19
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 403
+10:08:44
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 409
+10:14:09
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 455
+10:19:36
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 399
+10:25:12
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 392
+10:31:05
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 389
+10:36:44
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 372
+10:42:10
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 393
+10:47:34
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 373
+10:52:58
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 390
+10:58:23
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 381
+11:03:46
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 384
+11:09:11
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 360
+11:14:38
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 403
+11:20:02
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 392
+11:25:27
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 397
+11:30:52
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 344
+11:36:26
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 349
+11:41:56
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 363
+11:47:22
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 402
+11:52:48
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 369
+11:58:14
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 391
+12:03:45
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 372
+12:09:38
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 345
+12:15:15
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 340
+12:20:39
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 317
+12:26:04
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 344
+12:31:30
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 319
+12:36:55
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 316
+12:42:20
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 318
+12:47:47
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 324
+12:53:20
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 320
+12:58:53
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 325
+13:04:27
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 312
+13:09:58
+                  "value" : 1756
+                  "value" : 363
+                  "value" : 308

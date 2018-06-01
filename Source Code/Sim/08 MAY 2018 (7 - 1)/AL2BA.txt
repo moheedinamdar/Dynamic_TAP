@@ -1,0 +1,264 @@
+07:15:02
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 244
+07:20:25
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 244
+07:25:48
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 241
+07:31:14
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 255
+07:36:39
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 257
+07:42:04
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 284
+07:47:33
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 279
+07:53:02
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 271
+07:58:28
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 274
+08:03:51
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 266
+08:09:16
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 275
+08:14:42
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 269
+08:20:08
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 272
+08:25:33
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 259
+08:31:01
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 262
+08:36:25
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 265
+08:41:51
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 271
+08:47:18
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 254
+08:52:42
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 256
+08:58:04
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 278
+09:03:26
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 294
+09:08:48
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 283
+09:14:11
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 255
+09:19:35
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 264
+09:24:59
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 294
+09:30:26
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 280
+09:35:53
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 266
+09:41:33
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 264
+09:46:57
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 269
+09:52:24
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 284
+09:57:47
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 283
+10:03:13
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 299
+10:08:38
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 334
+10:14:01
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 324
+10:19:29
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 336
+10:24:57
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 313
+10:30:52
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 333
+10:36:37
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 320
+10:42:03
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 337
+10:47:27
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 353
+10:52:52
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 379
+10:58:16
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 310
+11:03:40
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 323
+11:09:04
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 327
+11:14:31
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 308
+11:19:55
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 345
+11:25:21
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 349
+11:30:46
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 362
+11:36:13
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 418
+11:41:50
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 457
+11:47:15
+                  "value" : 2369
+                  "value" : 425
+                  "value" : 428
+11:52:40
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 392
+11:58:07
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 377
+12:03:33
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 318
+12:09:26
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 296
+12:15:08
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 322
+12:20:32
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 293
+12:25:57
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 300
+12:31:23
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 266
+12:36:48
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 261
+12:42:14
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 256
+12:47:38
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 286
+12:53:11
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 259
+12:58:44
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 267
+13:04:18
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 255
+13:09:50
+                  "value" : 1025
+                  "value" : 308
+                  "value" : 276

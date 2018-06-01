@@ -1,0 +1,264 @@
+07:15:07
+                  "value" : 558
+                  "value" : 99
+                  "value" : 70
+07:20:30
+                  "value" : 558
+                  "value" : 99
+                  "value" : 71
+07:25:54
+                  "value" : 558
+                  "value" : 99
+                  "value" : 73
+07:31:20
+                  "value" : 558
+                  "value" : 99
+                  "value" : 73
+07:36:45
+                  "value" : 558
+                  "value" : 99
+                  "value" : 74
+07:42:10
+                  "value" : 558
+                  "value" : 99
+                  "value" : 76
+07:47:39
+                  "value" : 558
+                  "value" : 99
+                  "value" : 75
+07:53:07
+                  "value" : 558
+                  "value" : 99
+                  "value" : 76
+07:58:33
+                  "value" : 558
+                  "value" : 99
+                  "value" : 77
+08:03:56
+                  "value" : 558
+                  "value" : 99
+                  "value" : 74
+08:09:21
+                  "value" : 558
+                  "value" : 99
+                  "value" : 74
+08:14:47
+                  "value" : 558
+                  "value" : 99
+                  "value" : 80
+08:20:13
+                  "value" : 558
+                  "value" : 99
+                  "value" : 76
+08:25:39
+                  "value" : 558
+                  "value" : 99
+                  "value" : 79
+08:31:06
+                  "value" : 558
+                  "value" : 99
+                  "value" : 75
+08:36:31
+                  "value" : 558
+                  "value" : 99
+                  "value" : 87
+08:41:57
+                  "value" : 558
+                  "value" : 99
+                  "value" : 82
+08:47:23
+                  "value" : 558
+                  "value" : 99
+                  "value" : 87
+08:52:47
+                  "value" : 558
+                  "value" : 99
+                  "value" : 87
+08:58:09
+                  "value" : 558
+                  "value" : 99
+                  "value" : 89
+09:03:31
+                  "value" : 558
+                  "value" : 99
+                  "value" : 94
+09:08:54
+                  "value" : 558
+                  "value" : 99
+                  "value" : 93
+09:14:16
+                  "value" : 558
+                  "value" : 99
+                  "value" : 99
+09:19:40
+                  "value" : 558
+                  "value" : 99
+                  "value" : 86
+09:25:04
+                  "value" : 558
+                  "value" : 99
+                  "value" : 104
+09:30:32
+                  "value" : 558
+                  "value" : 99
+                  "value" : 100
+09:35:58
+                  "value" : 558
+                  "value" : 99
+                  "value" : 97
+09:41:39
+                  "value" : 558
+                  "value" : 99
+                  "value" : 102
+09:47:03
+                  "value" : 558
+                  "value" : 99
+                  "value" : 101
+09:52:29
+                  "value" : 558
+                  "value" : 99
+                  "value" : 99
+09:57:53
+                  "value" : 558
+                  "value" : 99
+                  "value" : 101
+10:03:18
+                  "value" : 558
+                  "value" : 99
+                  "value" : 93
+10:08:43
+                  "value" : 558
+                  "value" : 99
+                  "value" : 100
+10:14:08
+                  "value" : 558
+                  "value" : 99
+                  "value" : 89
+10:19:35
+                  "value" : 558
+                  "value" : 99
+                  "value" : 98
+10:25:10
+                  "value" : 558
+                  "value" : 99
+                  "value" : 89
+10:31:03
+                  "value" : 558
+                  "value" : 99
+                  "value" : 101
+10:36:43
+                  "value" : 558
+                  "value" : 99
+                  "value" : 90
+10:42:08
+                  "value" : 558
+                  "value" : 99
+                  "value" : 98
+10:47:32
+                  "value" : 558
+                  "value" : 99
+                  "value" : 96
+10:52:57
+                  "value" : 558
+                  "value" : 99
+                  "value" : 92
+10:58:21
+                  "value" : 558
+                  "value" : 99
+                  "value" : 96
+11:03:45
+                  "value" : 558
+                  "value" : 99
+                  "value" : 115
+11:09:10
+                  "value" : 558
+                  "value" : 99
+                  "value" : 94
+11:14:37
+                  "value" : 558
+                  "value" : 99
+                  "value" : 117
+11:20:01
+                  "value" : 558
+                  "value" : 99
+                  "value" : 89
+11:25:26
+                  "value" : 558
+                  "value" : 99
+                  "value" : 104
+11:30:51
+                  "value" : 558
+                  "value" : 99
+                  "value" : 98
+11:36:23
+                  "value" : 558
+                  "value" : 99
+                  "value" : 98
+11:41:55
+                  "value" : 558
+                  "value" : 99
+                  "value" : 94
+11:47:20
+                  "value" : 558
+                  "value" : 99
+                  "value" : 95
+11:52:46
+                  "value" : 558
+                  "value" : 99
+                  "value" : 92
+11:58:13
+                  "value" : 558
+                  "value" : 99
+                  "value" : 96
+12:03:43
+                  "value" : 558
+                  "value" : 99
+                  "value" : 99
+12:09:35
+                  "value" : 558
+                  "value" : 99
+                  "value" : 98
+12:15:14
+                  "value" : 558
+                  "value" : 99
+                  "value" : 91
+12:20:37
+                  "value" : 558
+                  "value" : 99
+                  "value" : 104
+12:26:03
+                  "value" : 558
+                  "value" : 99
+                  "value" : 98
+12:31:29
+                  "value" : 558
+                  "value" : 99
+                  "value" : 106
+12:36:53
+                  "value" : 558
+                  "value" : 99
+                  "value" : 94
+12:42:19
+                  "value" : 558
+                  "value" : 99
+                  "value" : 103
+12:47:45
+                  "value" : 558
+                  "value" : 99
+                  "value" : 93
+12:53:18
+                  "value" : 558
+                  "value" : 99
+                  "value" : 96
+12:58:51
+                  "value" : 558
+                  "value" : 99
+                  "value" : 89
+13:04:25
+                  "value" : 558
+                  "value" : 99
+                  "value" : 92
+13:09:56
+                  "value" : 558
+                  "value" : 99
+                  "value" : 92
